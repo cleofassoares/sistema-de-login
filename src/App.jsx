@@ -2,9 +2,7 @@ import "./App.css";
 import Login from "./components/Login"
 
 
-function App() {
-  
-
+function App() {  
   return (
     <div className="App">
       <Login />
